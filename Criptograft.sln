@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Criptograft", "Criptograft\Criptograft.csproj", "{681883AA-31DD-42AE-A864-6B1395ACAE6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Criptografia", "Criptografia\Criptografia.csproj", "{43036CED-4C82-41A5-AC37-C326530C902C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{681883AA-31DD-42AE-A864-6B1395ACAE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{681883AA-31DD-42AE-A864-6B1395ACAE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{681883AA-31DD-42AE-A864-6B1395ACAE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{681883AA-31DD-42AE-A864-6B1395ACAE6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43036CED-4C82-41A5-AC37-C326530C902C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43036CED-4C82-41A5-AC37-C326530C902C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43036CED-4C82-41A5-AC37-C326530C902C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43036CED-4C82-41A5-AC37-C326530C902C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B539541-A974-44C3-8F03-0FB1EED04A8A}
+	EndGlobalSection
+EndGlobal
